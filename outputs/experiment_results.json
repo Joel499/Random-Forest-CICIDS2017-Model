@@ -1,0 +1,11 @@
+{
+    "model": "RandomForest",
+    "n_estimators": 100,
+    "test_size": 0.2,
+    "dataset": "CICIDS2017-Tuesday",
+    "features": 78,
+    "train_samples": 356516,
+    "test_samples": 89129,
+    "accuracy": 1.0,
+    "false_negatives": 1
+}
